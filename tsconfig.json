@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "outDir": "lib",
+    "target": "ES6",
+    "module": "Node16",
+    "declaration": true,
+    "declarationDir": "./types"
+  },
+  "include": ["src/**/*"]
+}
