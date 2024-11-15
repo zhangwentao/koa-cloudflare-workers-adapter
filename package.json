@@ -7,6 +7,12 @@
   "scripts": {
     "build": "tsc"
   },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20241112.0",
+    "@types/koa": "^2.15.0",
+    "@types/node": "^22.9.0",
+    "typescript": "^5.6.3"
+  },
   "keywords": [
     "koa",
     "cloudflare",
@@ -14,12 +20,11 @@
     "koa adapter",
     "koa cloudflare workers adapter"
   ],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "@cloudflare/workers-types": "^4.20241112.0",
-    "@types/koa": "^2.15.0",
-    "@types/node": "^22.9.0",
-    "typescript": "^5.6.3"
-  }
+  "author": "zhangwentao",
+  "license": "MIT",
+  "homepage": "https://github.com/zhangwentao/koa-cloudflare-workers-adapter",
+  "bugs": {
+    "url": "https://github.com/zhangwentao/koa-cloudflare-workers-adapter/issues",
+    "email": "taowenzhang@gmail.com"
+  },
 }
