@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/zhangwentao/koa-cloudflare-workers-adapter/issues",
     "email": "taowenzhang@gmail.com"
-  },
+  }
 }
