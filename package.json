@@ -1,6 +1,6 @@
 {
   "name": "koa-cloudflare-workers-adapter",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "./lib/adapter.js",
   "types": "./types",
