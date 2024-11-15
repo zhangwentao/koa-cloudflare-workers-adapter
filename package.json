@@ -1,13 +1,19 @@
 {
   "name": "koa-cloudflare-workers-adapter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "./lib/adapter.js",
   "types": "./types",
   "scripts": {
     "build": "tsc"
   },
-  "keywords": ["koa","cloudflare","cloudflare workers", "koa adapter", "koa cloudflare workers adapter"],
+  "keywords": [
+    "koa",
+    "cloudflare",
+    "cloudflare workers",
+    "koa adapter",
+    "koa cloudflare workers adapter"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
