@@ -2,7 +2,7 @@
   "name": "koa-cloudflare-workers-adapter",
   "version": "0.0.1",
   "description": "",
-  "main": "./lib/index.js",
+  "main": "./lib/adapter.js",
   "types": "./types",
   "scripts": {
     "build": "tsc"
